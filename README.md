@@ -38,14 +38,9 @@ This repository contains a complete analysis of HR Employee data, including:
 ```bash
 git clone https://github.com/<your-username>/Hr-Employee-Analysis.git
 cd Hr-Employee-Analysis
-2. Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3. Run Jupyter Notebook
-bash
-Copy code
+2. Run Jupyter Notebook
 jupyter notebook model/HR_Attrition_Prediction.ipynb
+
 📊 Dashboard Highlights
 Total Employees: 1470
 
